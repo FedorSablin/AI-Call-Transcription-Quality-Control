@@ -11,7 +11,7 @@
                 "markSeen": true,
                 "maxResults": 1,
                 "folder": "[Gmail]/Вся почта",
-                "xGmRaw": "from:fredbaggins7@gmail.com"
+                "xGmRaw": "from:hello@gmail.com"
             },
             "mapper": {},
             "metadata": {
@@ -22,7 +22,7 @@
                 "restore": {
                     "parameters": {
                         "account": {
-                            "label": "My Google Restricted connection (sablinfa@gmail.com)",
+                            "label": "My Google Restricted connection (hello@gmail.com)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "google-restricted"
@@ -1549,7 +1549,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "My Google connection (sablinfa@gmail.com)",
+                            "label": "My Google connection (hello@gmail.com)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "google"
