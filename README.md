@@ -22,9 +22,7 @@
 
 | Make Scenario | Google Sheets Output |
 |---------------|---------------------|
-| ![Scenario](docs/assets/scenario_make.png) | ![Sheet](docs/assets/sheet_output.png) |
-
-> Скриншоты клонируются из `docs/assets/` — просто замените на собственные.
+| ![Scenario](screenshots/make_scenario.png) | ![Sheet](screenshots/google_sheets_results.png) |
 
 ## 📂 Структура репозитория
 
@@ -33,14 +31,13 @@
 ├── make-blueprint/               # .json для импорта в Make
 │   └── call_quality_control.json
 ├── data/
-│   ├── analytics_sample.csv      # пример результата (см. ниже)
-│   └── sample_calls/             # сюда можно положить демо‑аудио
-├── docs/
-│   └── assets/                   # изображения для README / Wiki
-│       ├── scenario_make.png
-│       └── sheet_output.png
+│   ├── analytics_sample.csv      # пример результата 
+│   ├── sample_call_1             # демо‑аудио
+│   └── sample_call_2             # демо‑аудио
+├── screenshots/
+│   ├── google_sheets_results.png # изображения
+│   └── make_scenario.png 
 ├── .gitignore
-├── .env.example                  # переменные окружения
 ├── LICENSE
 └── README.md  ← you are here
 ```
@@ -88,7 +85,6 @@ cp .env.example .env
 | 2025‑06‑09 08:42 | Добрый день, подскажите, вчера оформи... | Клиент не уверен в гарантии... | Уточнить гарантию, предложить… | 1387 / 943 |
 | 2025‑06‑09 08:41 | Алло, добрый день, компания Хэлми... | Клиент переживает о сроках... | Прозрачные сроки, follow‑up... | 664 / 848 |
 
-Файл не содержит персональных данных и может быть свободно добавлен в портфолио.
 
 ## 💡 Бизнес‑ценность
 
