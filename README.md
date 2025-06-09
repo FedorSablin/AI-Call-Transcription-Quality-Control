@@ -102,7 +102,8 @@ cp .env.example .env
 ## 🤝 Contributing
 
 PR и issue‑запросы приветствуются!  
-См. [`CONTRIBUTING.md`](CONTRIBUTING.md) для деталей.
+Связь - sablinfa@gmail.com или https://t.me/fedorsablin
+
 
 ## 📝 License
 
