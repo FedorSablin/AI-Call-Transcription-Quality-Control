@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+.env
+.env.*
+
+# IDE & Editor folders
+.idea/
+.vscode/
+
+# Make runtime cache
+*.tmp
+*.bak
+
+# Data outputs (can be regenerated)
+data/sample_calls/
