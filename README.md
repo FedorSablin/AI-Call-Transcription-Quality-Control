@@ -106,4 +106,4 @@ PR и issue‑запросы приветствуются!
 
 ## 📝 License
 
-[MIT](LICENSE) © 2025 Константин Финк & Community
+[MIT](LICENSE) © 2025 Fedor Sablin
